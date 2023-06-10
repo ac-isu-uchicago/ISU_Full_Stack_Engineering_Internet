@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<meta charset = "utf - 8">
+	<title>Image HyperLinks</title>
+
+	</head>
+
+	<body>
+		<P>Here are some images hyperlinks. <img src = "cpphtp.png"
+		width = 92 height = 120
+			alt = "C++ how to program a book cover">
+		<img src = "jhtp.png" width = 92 height = 120>
+		alt = "Java, how to program a book cover."
+
+		</P>
+
+
+
+
+
+
+
+
+	</body>
+
+
+
+
+
+
+
+
+</html>

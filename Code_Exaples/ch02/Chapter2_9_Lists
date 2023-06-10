@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	<meta charset = "utf-8">
+	<title>Links </title>
+	</head>
+
+	<body>
+	<h1> here are my favorite sites</h1>
+
+	<p> <strong> Click on a name to go to that page</strong></p>
+
+		<ul> <!-- UNORDERED LIST -->
+			<li
+				<ul?
+				<li> <a href = http://www.youtube.com</a> </li>
+				<li> <a href = http//www.youtube.com</a> </li>
+				<li> <a href = http://www.amazon.com </a> </li>				
+
+				</li>
+
+
+
+
+	</body>
+
+
+
+
+
+
+</html>
